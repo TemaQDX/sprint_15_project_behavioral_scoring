@@ -1,1 +1,1 @@
-# sprint_15_project_behavioral_scoring
+# Yandex Practicum sprint 15 project
